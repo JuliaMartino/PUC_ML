@@ -11,7 +11,7 @@ Este projeto desenvolve e compara modelos de aprendizado de máquina para classi
 
 "Spotify Tracks Dataset" https://huggingface.co/datasets/thaeky/spotify-tracks-dataset
 
-O conjunto de dados inicial continha 114.000 músicas distribuídas em 114 gêneros musicais. Para o estudo, um gênero que apresentava muitas faixas faladas foi excluído. A dase de dados está balanceada com 1000 faixas para cada gênero.
+O conjunto de dados inicial continha 114.000 músicas distribuídas em 114 gêneros musicais. Para o estudo, um gênero que apresentava muitas faixas faladas foi excluído. A base de dados está balanceada com 1000 faixas para cada gênero.
 
 ## Modelos avaliados
 
